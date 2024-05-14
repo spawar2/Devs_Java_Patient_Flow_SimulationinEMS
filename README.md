@@ -1,4 +1,4 @@
-# Devs_Java_Patient_Flow_SimulationinEMS
+# Devs_Java_Patient_Flow_SimulationinEMS collaboration with Dr. Stanam, University of Iowa https://www.linkedin.com/in/aditya-stanam-07bbb819/
 [Java: DEVSJAVALab, simView.*, java.awt.*, java.io.*, genDevs.modeling.*, genDevs.simulation.*, GenCol.*]
 Patient flow simulation in EMS department.
 [Paper Link:](https://link.springer.com/chapter/10.1007%2F978-3-030-17935-9_1)

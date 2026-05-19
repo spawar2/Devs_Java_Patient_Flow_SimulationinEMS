@@ -10,6 +10,7 @@ https://csds.gsu.edu/ ^^^Georgia State University, College of Arts and Sciences,
 selected method(actionPerformed, actionPerformed, addOutput, addInput, mouseClicked, evaluateBoolExpr).
 Developing a DEVS-JAVA Model to Simulate and Pre-test Changes to Emergency Care Delivery in a Safe and Efficient Manner, Shrikant Pawar and Dr. Lahiri, Publication: Springer: Lecture Notes in Computer Science (Publication date: April 30), collaboration with Dr. Stanam, University of Iowa, Iowa City, USA, Github, Article link, [Cited times: 3]^^^ DOI: https://doi.org/10.1007/978-3-030-17935-9_1, Issue, Volume, Pages: pp 3–14.
 †![download2](https://github.com/user-attachments/assets/afb5ec37-3f6b-4238-8ef7-4aa16d209b70)
+<img width="1463" height="795" alt="Screenshot 2026-05-20 at 1 47 45 AM" src="https://github.com/user-attachments/assets/f4e9b06c-0602-4390-8b3a-a190edff11d2" />
 
 †Corresponding author. ††First author. †††Second author. ††††Third author. †††††author.
 
